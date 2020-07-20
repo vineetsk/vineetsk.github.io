@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Vineet Kulkarni</title>
-        <link>https://vineetkulkarni.com/</link>
-        <description>Blogs, Resume, Books, Interests</description>
+        <title>All Posts - Vineet Kulkarni</title>
+        <link>https://vineetkulkarni.com/posts/</link>
+        <description>All Posts | Vineet Kulkarni</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vineet@hey.com (Vineet)</managingEditor>
-            <webMaster>vineet@hey.com (Vineet)</webMaster><lastBuildDate>Sun, 17 Nov 2019 08:51:20 &#43;0000</lastBuildDate>
-            <atom:link href="https://vineetkulkarni.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>vineet@hey.com (Vineet)</webMaster><lastBuildDate>Sun, 17 Nov 2019 08:51:20 &#43;0000</lastBuildDate><atom:link href="https://vineetkulkarni.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Global Day Of Coderetreat #Pune 2019</title>
     <link>https://vineetkulkarni.com/posts/2019-11-17_global-day-of-coderetreat-sharppune-2019/</link>
     <pubDate>Sun, 17 Nov 2019 08:51:20 &#43;0000</pubDate>
