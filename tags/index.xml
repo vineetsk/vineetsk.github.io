@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Vineet Kulkarni</title>
+        <link>https://vineetkulkarni.com/tags/</link>
+        <description>Tags - Tag - Vineet Kulkarni</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vineet@hey.com (Vineet)</managingEditor>
+            <webMaster>vineet@hey.com (Vineet)</webMaster><atom:link href="https://vineetkulkarni.com/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
