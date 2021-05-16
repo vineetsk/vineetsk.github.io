@@ -2,7 +2,7 @@
     <channel>
         <title>Vineet Kulkarni</title>
         <link>https://vineetkulkarni.com/</link>
-        <description>Blogs, Resume, Books, Interests</description>
+        <description>Blogs, Books, Interests</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vineet@hey.com (Vineet)</managingEditor>
             <webMaster>vineet@hey.com (Vineet)</webMaster><lastBuildDate>Sun, 17 Nov 2019 08:51:20 &#43;0000</lastBuildDate>
             <atom:link href="https://vineetkulkarni.com/index.xml" rel="self" type="application/rss+xml" />
